@@ -1,0 +1,42 @@
+Subject: Invitation to Participate in Innovative Research – Help Shape the Future of Tech
+
+Dear [Prospect's Name],
+
+I hope this message finds you well. My name is Marcus C. Rodriguez, and I am reaching out from i*, 
+where we are pioneering advancements in the intersection of technology and human cognition. We are 
+currently participants in the prestigious Southwestern National Science Foundation I-Corps Summer 
+2024 program. As part of our research and development phase, we are conducting a survey that seeks 
+to understand and model human behavior, emotions, and decision-making processes using our advanced 
+data architecture. The link to the survey is as follows: 
+
+https://istarsurvey.streamlit.app/
+
+The survey is designed not only to gather insights but also to demonstrate the capabilities of our 
+technology. We utilize waveforms to represent behavioral, emotional, and decision dynamics, 
+integrating this with qualitative sentiment analysis through natural language processing (NLP). This 
+approach allows us to score and validate the overall receptiveness towards our technology, 
+facilitating essential customer discovery.
+
+Your participation would be invaluable to us and could significantly influence the development and 
+refinement of technologies that aim to understand and enhance human-machine interaction. Here's what 
+you can expect from participating in the survey:
+
+	- A brief set of questions, taking no more than 5-10 minutes to complete.
+	- An opportunity to see firsthand the potential of our cutting-edge technology.
+	- A chance to contribute to a pioneering field of research that seeks to blend 
+	computational psychology with advanced data processing.
+	
+We are committed to ensuring that the insights we gather are used to foster innovations that are both 
+impactful and ethically grounded. Your feedback will play a crucial role in guiding our development 
+process. Please let us know if you would be interested in participating or if you have any questions 
+about the survey or our project. We would be happy to provide more details and/or arrange a brief call
+to discuss this further.
+
+Thank you for considering this opportunity to impact the future of technology. We look forward to 
+potentially collaborating with you and garnering your insights.
+
+Warm regards,
+Marcus C. Rodriguez
+i*
+www.marcusc.com
+775.546.3251
